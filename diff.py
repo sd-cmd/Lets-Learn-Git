@@ -1,2 +1,2 @@
 a,b = 10,20
-print(b-a)
+print(a-b)
